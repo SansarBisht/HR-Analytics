@@ -27,9 +27,10 @@ This repository contains the Employee Attrition Dashboard, created using Power B
 Power BI Desktop: For creating and visualizing the dashboard.
 - Dataset: HR employee data including demographics, satisfaction scores, and attrition status.
 - Key Visuals: Bar charts, slicers, heatmaps, and KPIs.
-🙏 Contributing
+
+ 🙏 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check out the issues page if you have suggestions.
-📧 Contact
+ 📧 Contact
 For any questions or feedback, please contact:
 Name: Shristi Bisht
 Email: shristibisht899@gmail.com
